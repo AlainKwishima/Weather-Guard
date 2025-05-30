@@ -2,22 +2,12 @@
    <img src="https://github.com/PranshulGG/WeatherMaster/blob/master/preview/readme_app_icon.svg" alt="" width="150px">
 </div>
 <h1 align="center">
- WeatherMaster
+ WeatherGuard
 </h1>
-   <div  align="center">
-      <img src="https://img.shields.io/github/license/PranshulGG/WeatherMaster?style=for-the-badge&color=cba6f7&labelColor=302D41">
-      <img src="https://img.shields.io/github/last-commit/PranshulGG/WeatherMaster?style=for-the-badge&color=b1d18a&labelColor=1f3701">
-      <img src="https://img.shields.io/github/release/PranshulGG/WeatherMaster?style=for-the-badge&color=dbc66e&labelColor=3a3000">
-      <br>
-      <img src="https://img.shields.io/github/stars/PranshulGG/WeatherMaster?style=for-the-badge&color=ffb5a0&labelColor=561f0f">
-      <img src="https://img.shields.io/github/downloads/PranshulGG/WeatherMaster/total?label=Downloads&style=for-the-badge&color=aac7ff&labelColor=0a305f">
-      <a href="https://discord.gg/sSW2E4nqmn">
- <img src="https://img.shields.io/discord/1302477023410782229?label=Discord&style=for-the-badge&color=ffb0c8&labelColor=541d32">
-</a>
 
    </div>
    <div align="center">
-   <h3>WeatherMaster: inspired by the Google Pixel weather app.</h3>
+   <h3>WeatherGuard: inspired by the Google Pixel weather app.</h3>
    </div>
  <div align="center">
     
@@ -113,19 +103,6 @@
 - 📐<strong>Responsive Design: </stronge>WeatherMaster is fully responsive for all mobile devices.
 
 - 🧩<strong>User-Friendly Interface: </stronge>The app's interface is designed to be straightforward and user-friendly.
-
-
-# 🛠️ Built With:
-
-- <strong>HTML & CSS: </stronge> For the basic structure and styling of the app.
-
-- <strong>JavaScript: </stronge>To handle the app's logic and interactivity.
-
-- <strong>Java: </stronge>Mainly used for JavaScript interface and permissions, allowing the app to run on Android devices.
-
-- <strong>Material Web Components: </stronge>Utilized to create a consistent and attractive Material Design look and feel.
-
-- <strong>Weather icons</strong>: <a href="https://gitlab.com/bignutty/google-weather-icons">Google weather icons
 
 # 📝 Todos:
 
